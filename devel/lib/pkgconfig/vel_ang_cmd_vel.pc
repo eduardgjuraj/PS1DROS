@@ -1,0 +1,8 @@
+prefix=/home/edy/catkin_ws/devel
+
+Name: vel_ang_cmd_vel
+Description: Description of vel_ang_cmd_vel
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
